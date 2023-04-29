@@ -1,0 +1,5 @@
+f=open("py.txt","a")
+name=input("enter a name:")
+print(name)
+f.write(name)
+f.close()

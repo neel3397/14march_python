@@ -1,0 +1,14 @@
+try:
+    a=10
+    b=50
+    ans=a+b
+    print(ans)
+
+except:
+   print("invalid input")
+
+else:
+    print("welcome to math word")
+
+finally:
+   print("welcome to my application")
