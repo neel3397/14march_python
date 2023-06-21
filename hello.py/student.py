@@ -1,0 +1,5 @@
+print("name:-neel")
+print("age:-26")
+print("subject:-python")
+print("address:-ahmedabad")
+print("hello \bneel") 
