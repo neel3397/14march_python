@@ -1,0 +1,68 @@
+module-5 assignment
+
+ans1-django is high-level python framework that enables rapid development of secure and maintanable websites.
+built by experienced developers, django takes care of much of the hassle of web development, so you can
+focus on writing your app without needing to reinvent the wheel.
+
+1.use the django admin tool to generate a project folder,the basic file templates and manage.py, which serves as your project management script.
+
+
+2.use manage.py to create one or more applications.
+
+
+3.register the new application to include them in the project.
+
+4.hook up the url/path mapper for each application.
+
+
+ans2-django can be installed easily using pip.
+in the command prompt execute the following command:
+pip intall django.
+this will download and install django.
+after the installation has completed,
+you can varify your django installation by
+executing django-admin-version in
+the command prompt.
+
+
+ans3-makemessages. runs over the entire source
+tree of the current current dictionary and pulls out all strings marked 
+for translation.it creates a
+message file in the conf/locale or locale directory.
+
+
+ans4-django runs through each url pattern, in order and stops at the
+first one that matches the requested url, matching against path_info.
+once one of the url patterns matches, django imports and calls the
+given view which is the python function.
+
+
+ans5-it is a represntes a collection of objects from your database.
+it can have zero , one or many filters. filters narrow down the query results based 
+on the given parameters.in sql terms, a query set equates to a select
+statement and a filter is limitingclause such as where or limit.
+
+
+
+
+ans6-to load data into django you have to use
+the command line django admin.py loaddata.
+the command line will searches the data and
+loads the contents of the named
+fixtures into the databse.
+
+
+ans7-
+admin
+product manager
+admin name-
+product name-
+sub category-
+manager
+customer
+samsung 
+apple
+
+
+
+
